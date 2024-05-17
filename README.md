@@ -1,2 +1,1 @@
-#Hello!
-#From Ronghui Yan
+#Hello from Ronghui Yan
